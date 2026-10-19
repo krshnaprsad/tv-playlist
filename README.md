@@ -4,6 +4,10 @@
 
 The verified-working Asianet HD 1080p stream is listed first. Other stream URLs come from the index and have not been individually checked here; streams may change or go offline.
 
+## Why I built TV Playlist
+
+This one is personal. When I use a TV playlist someone else made, the links keep breaking, always. So I made my own, built from the original sources, and now I can sit down and watch whenever I want. It does not break. That is why I built TV Playlist.
+
 ## Licence
 
 I made this and it is free to use, including for paid work. What it is not free to do is be copied: please don't republish, redistribute or sell the code, or build your own version from it. The full terms are in [LICENSE](LICENSE). Versions published before 19 October 2026 were MIT and stay that way. The Zero3 name and logo are not part of the licence.
